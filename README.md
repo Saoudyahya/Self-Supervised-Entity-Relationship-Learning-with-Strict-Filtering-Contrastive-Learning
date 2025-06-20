@@ -567,13 +567,7 @@ SOFTWARE.
 
 ---
 
-## 📞 Support
 
-- **Documentation**: [https://github.com/your-username/pdf-contrastive-learning/wiki](https://github.com/your-username/pdf-contrastive-learning/wiki)
-- **Issues**: [https://github.com/your-username/pdf-contrastive-learning/issues](https://github.com/your-username/pdf-contrastive-learning/issues)
-- **Discussions**: [https://github.com/your-username/pdf-contrastive-learning/discussions](https://github.com/your-username/pdf-contrastive-learning/discussions)
-
----
 
 ## 🔮 Future Roadmap
 
